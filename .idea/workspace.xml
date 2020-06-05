@@ -29,6 +29,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1csbv3rbXafyu1fJUUICNUUSx7A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git_test" />
@@ -97,6 +98,7 @@
           <value>
             <State>
               <option name="BEK_SORT_TYPE" value="1" />
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
